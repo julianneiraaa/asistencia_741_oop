@@ -2,7 +2,7 @@
 sigmotoa
 
 
-Julian Andres Neira Camacho
+Julian Neira 20232007041
 
 Nicolás Cervantes
 20232007088
